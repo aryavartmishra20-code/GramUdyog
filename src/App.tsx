@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import './App.css';
 import { LanguageProvider } from './i18n/LanguageContext';
 import { Header } from './components/Header';
 import { BusinessForm } from './components/BusinessForm';
